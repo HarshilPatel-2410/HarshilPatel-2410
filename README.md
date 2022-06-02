@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarshilPatel-2410
 - 👀 I’m interested in travelling
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on front-end
+- 🌱 I’m currently learning web development @ Conestoga college
+- 💞️ I’m looking to collaborate on front-end development
 - 📫 How to reach me email:pharshil2410@gmail.com
 
 <!---
